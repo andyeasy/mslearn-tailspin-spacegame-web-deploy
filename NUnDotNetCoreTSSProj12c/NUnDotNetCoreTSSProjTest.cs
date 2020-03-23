@@ -51,7 +51,7 @@ namespace NUnDotNetCoreTSSProj12c
         public void NUnDotNetCoreTSSTestTest()
         {
 
-            //Navigate to PHPTravels Homepage and verify 'Flight' menu/Icon is present 
+            //Navigate to PHPTravels Homepage and verify 'Flight' menu/Icon is present ////////////
             driver.Navigate().GoToUrl(baseURL + "/");
             Thread.Sleep(5000);
             Assert.AreEqual("https://tailspin-space-game-web-andyeasy2.azurewebsites.net/", driver.Url);
