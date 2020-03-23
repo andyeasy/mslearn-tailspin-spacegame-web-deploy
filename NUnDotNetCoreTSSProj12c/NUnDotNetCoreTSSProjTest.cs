@@ -29,7 +29,7 @@ namespace NUnDotNetCoreTSSProj12c
             driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
             //driver = new FirefoxDriver();
-            baseURL = "https://tailspin-space-game-web-andyeasy.azurewebsites.net";
+            baseURL = "https://tailspin-space-game-web-andyeasy2.azurewebsites.net";
             //driver.Navigate().GoToUrl(baseURL + "/");
         }
 
@@ -54,7 +54,7 @@ namespace NUnDotNetCoreTSSProj12c
             //Navigate to PHPTravels Homepage and verify 'Flight' menu/Icon is present 
             driver.Navigate().GoToUrl(baseURL + "/");
             Thread.Sleep(5000);
-            Assert.AreEqual("https://tailspin-space-game-web-andyeasy.azurewebsites.net/", driver.Url);
+            Assert.AreEqual("https://tailspin-space-game-web-andyeasy2.azurewebsites.net/", driver.Url);
             Assert.AreEqual("Download game", driver.FindElement(By.LinkText("Download game")).Text);
 
         }

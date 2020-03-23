@@ -91,3 +91,6 @@ C:\Users\EZEKIEL\Documents\AzDevNUnitDNetCoreTSpinSGT12a\NUnDotNetCoreTSSProj12c
 C:\Users\EZEKIEL\Documents\AzDevNUnitDNetCoreTSpinSGT12a\NUnDotNetCoreTSSProj12c\NUnDotNetCoreTSSProj12c\obj\Debug\netcoreapp3.1\NUnDotNetCoreTSSProj12c.csproj.CopyComplete
 C:\Users\EZEKIEL\Documents\AzDevNUnitDNetCoreTSpinSGT12a\NUnDotNetCoreTSSProj12c\NUnDotNetCoreTSSProj12c\bin\Debug\netcoreapp3.1\WebDriver.dll
 C:\Users\EZEKIEL\Documents\AzDevNUnitDNetCoreTSpinSGT12a\NUnDotNetCoreTSSProj12c\NUnDotNetCoreTSSProj12c\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\EZEKIEL\Documents\AzDevNUnitDNetCoreTSpinSGT12a\NUnDotNetCoreTSSProj12c\NUnDotNetCoreTSSProj12c\bin\Debug\netcoreapp3.1\NUnDotNetCoreTSSProj12c.pdb
+C:\Users\EZEKIEL\Documents\AzDevNUnitDNetCoreTSpinSGT12a\NUnDotNetCoreTSSProj12c\NUnDotNetCoreTSSProj12c\obj\Debug\netcoreapp3.1\NUnDotNetCoreTSSProj12c.dll
+C:\Users\EZEKIEL\Documents\AzDevNUnitDNetCoreTSpinSGT12a\NUnDotNetCoreTSSProj12c\NUnDotNetCoreTSSProj12c\obj\Debug\netcoreapp3.1\NUnDotNetCoreTSSProj12c.pdb
